@@ -1,7 +1,7 @@
 terraform-datadog-timeboard-elb-classic
 =================
 
-Terraform module to create Datadog timeboard for ELB Classic.
+Terraform module to create Datadog Timeboard for ELB Classic.
 
 
 
