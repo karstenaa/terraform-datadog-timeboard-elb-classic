@@ -9,7 +9,7 @@ Usage
 -----
 
 ```hcl
-module "timeboard_elb_classic_usrpapi-lbint-01" {
+module "timeboard_elb_classic_beical-lbint-01" {
   source         = "github.com/traveloka/terraform-datadog-timeboard-elb-classic.git?ref=0.1.0"
   product_domain = "${var.product_domain}"
   lb_name        = "${var.lb_name}"

@@ -3,5 +3,5 @@ variable "product_domain" {
 }
 
 variable "lb_name" {
-  default = "usrpapi-lbint-01"
+  default = "beical-lbint-01"
 }
